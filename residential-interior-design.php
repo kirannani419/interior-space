@@ -8,10 +8,15 @@
 <!-- CONTENT START -->
 <div class="page-content">
 
+
+
+
+
     <!-- INNER PAGES BANNER START -->
-    <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5"
-        style="background-image: url('https://theme7x.com/inteshape/images/banner/6.jpg'); background-position: 50% -50px;">
-        <div class="overlay-main bg-black opacity-07"></div>
+    <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-centeqr" style="background-image: url('./assets/images/banner/inner-banner.jpg'); background-position: center !important;
+                background-attachment: local;
+                background-size: cover;">
+        <div class="overlay-main "></div>
         <div class="container">
             <div class="sx-bnr-inr-entry">
                 <div class="banner-title-outer">
@@ -63,20 +68,19 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="section-content">
                         <div class="service-single-block m-b30">
-                            <h3 class=" sx-tilte">Interior design, a fine line with more shine a design
-                                gives you.</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                fugiat nulla pariatur.</p>
+                            <h3 class=" sx-tilte">Transform Your Home with Expert Interior Design</h3>
+                            <p>At Interior Space, we specialize in crafting personalized residential interiors that
+                                elevate your living experience. Our services range from custom home designs and kitchen
+                                remodels to living room makeovers and outdoor spaces. We combine functionality with
+                                aesthetics to create stylish, comfortable, and practical spaces that reflect your unique
+                                vision and lifestyle.</p>
 
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                                deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus
-                                error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque
-                                ipsa quae ab illo inventore veritatis et quasi.</p>
+                            <p>Our expert team works closely with you to ensure every detail aligns with your
+                                preferences. From initial consultation to final reveal, we manage the entire process
+                                with meticulous attention to detail and commitment to excellence, transforming your home
+                                into a beautiful and functional sanctuary.</p>
 
-                            <h4 class="m-t30 sx-tilte">Professional Interior Design Service</h4>
+                            <!-- <h4 class="m-t30 sx-tilte">Professional Interior Design Service</h4>
                             <div class="single-service-list">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-12">
@@ -99,80 +103,137 @@
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
-
-
+                            </div> -->
                         </div>
-
-                        <!-- Section Accordion Start -->
-                        <!-- <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
-                                    <div class="panel sx-panel">
-                                        <div class="acod-head acc-actives">
-                                            <h6 class="acod-title acc-actives">
-                                                <a data-toggle="collapse" href="#collapseOne5" data-parent="#accordion5"
-                                                    aria-expanded="false" class="collapsed">
-                                                    Choose between rates or instant payment
-                                                    <span class="indicator"><i class="fa"></i></span>
-                                                </a>
-                                            </h6>
-                                        </div>
-                                        <div id="collapseOne5" class="acod-body collapse" style="">
-                                            <div class="acod-content p-tb15">
-                                                <p> Motivate others and change the way we feel about ourselves. This is
-                                                    why I find them so interesting and crucial on our paths to success
-                                                    mauris accumsan eros eget libero posuere vulputate. Etiam elit elit,
-                                                    elementum sed varius at, adipiscing vitae est.
-                                                    Sed nec felis pellentesque, lacinia dui sed, ultricies sapien.
-                                                    Pellentesque orci consectetur vel posuere posuere, rutrum eu ipsum.
-                                                    Cost is important.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel sx-panel">
-                                        <div class="acod-head">
-                                            <h6 class="acod-title">
-                                                <a data-toggle="collapse" href="#collapseTwo5" class="collapsed"
-                                                    data-parent="#accordion5" aria-expanded="false">
-                                                    Come to see a live preview
-                                                    <span class="indicator"><i class="fa"></i></span>
-                                                </a>
-                                            </h6>
-                                        </div>
-                                        <div id="collapseTwo5" class="acod-body collapse">
-                                            <div class="acod-content p-tb15">Inspirational quotes have an amazing
-                                                ability to motivate others and change the way we feel about ourselves.
-                                                This is why I find them so interesting and crucial on our paths to
-                                                success.</div>
-                                        </div>
-                                    </div>
-                                    <div class="panel sx-panel">
-                                        <div class="acod-head">
-                                            <h6 class="acod-title">
-                                                <a data-toggle="collapse" href="#collapseThree5" class="collapsed"
-                                                    data-parent="#accordion5" aria-expanded="false">
-                                                    Choose the correct service
-                                                    <span class="indicator"><i class="fa"></i></span>
-                                                </a>
-                                            </h6>
-                                        </div>
-                                        <div id="collapseThree5" class="acod-body collapse">
-                                            <div class="acod-content p-tb15">The leap into electronic typesetting,
-                                                remaining essentially unchanged. It was popularised sheets containing
-                                                Lorem Ipsum passagese.</div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                        <!-- Section Accordion Start -->
-
                     </div>
-
                 </div>
             </div>
         </div>
-
-
     </div>
     <!-- SERVICES SECTION END -->
+
+
+
+    <!-- Scoller Section Start -->
+
+    <div class="scroller">
+        <div class="position-relative overflow-hidden">
+            <div class="container--fluied th-container5">
+                <div class="about-sec4 position-relative overflow-hidden">
+                    <div class="about-shape4">
+                        <div class="marquee-wrapper">
+
+                            <div class="marquee">
+                                <div class="marquee-group">
+
+                                    <div class="text">Custom Home Design</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Living Room Makeovers</div>
+                                    <div class="text">Bedroom Makeovers</div>
+                                    <div class="text">Outdoor Living Spaces</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Children's Room Design</div>
+                                    <div class="text">Storage Solutions</div>
+
+                                </div>
+
+                                <div aria-hidden="true" class="marquee-group">
+
+                                    <div class="text">Custom Home Design</div>
+                                    <div class="text">Storage Solutions</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Children's Room Design</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Living Room Makeovers</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Bedroom Makeovers</div>
+                                    <div class="text">Outdoor Living Spaces</div>
+                                </div>
+                            </div>
+
+
+                            <!-- 123456 -->
+
+
+                            <div class="marquee marquee--reverse">
+                                <div class="marquee-group">
+                                    <div class="text">Storage Solutions</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Custom Home Design</div>
+                                    <div class="text">Outdoor Living Spaces</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Living Room Makeovers</div>
+                                    <div class="text">Bedroom Makeovers</div>
+                                    <div class="text">Children's Room Design</div>
+                                </div>
+                                <div aria-hidden="true" class="marquee-group">
+                                    <div class="text">Storage Solutions</div>
+                                    <div class="text">Children's Room Design</div>
+                                    <div class="text">Bedroom Makeovers</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Living Room Makeovers</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Outdoor Living Spaces</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Custom Home Design</div>
+                                </div>
+                            </div>
+
+                            <!-- 12345678 -->
+
+                            <div class="marquee">
+                                <div class="marquee-group">
+                                    <div class="text">Bedroom Makeovers</div>
+                                    <div class="text">Outdoor Living Spaces</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Children's Room Design</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Custom Home Design</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Living Room Makeovers</div>
+
+                                </div>
+
+                                <div aria-hidden="true" class="marquee-group">
+                                    <div class="text">Outdoor Living Spaces</div>
+                                    <div class="text">Custom Home Design</div>
+                                    <div class="text">Storage Solutions</div>
+                                    <div class="text">Children's Room Design</div>
+                                    <div class="text">Kitchen Remodels</div>
+                                    <div class="text">Home Office Design</div>
+                                    <div class="text">Bathroom Remodels</div>
+                                    <div class="text">Dining Room Design</div>
+                                    <div class="text">Living Room Makeovers</div>
+                                    <div class="text">Bedroom Makeovers</div>
+                                    
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="about-area4">
+                        <div class="vertical-slider-serv title-area-wrapper">
+                            <div class="title-area mb-40"><span class="sub-title style1 ">What We Do</span>
+                                <h2 class="sec-title">Professional Interior Design Service</h2>
+                            </div>
+                            <!-- <a href="https://itech36.com/about-us"
+                                                    class="th-btn style5 style-radius">More About Us</a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scoller Section End -->
+
 
 
     <!-- SERVICES PROJECT SECTION START -->
@@ -184,11 +245,10 @@
                         <!--Content Column-->
                         <div class=" projects-image-lft-main content-column pull-left col-md-5 col-sm-12 col-xs-12">
                             <div class="inner-column">
-                                <h2><a href="#">Royal Villa</a></h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do
-                                    eiusmod temp incidunt ut labore et dolore magna aliqua uat enim ad minim
-                                    veniama quis nostrud ullamcoab oris nisi ut aliquip ex ea commodo consequat
-                                    et dolore magna aliqua uat enim.</p>
+                                <h2><a>Innovative Design Solutions</a></h2>
+                                <p>At Interior Space, we transform environments with innovative and tailored design
+                                    solutions. Our expert team ensures every project reflects your unique vision,
+                                    combining functionality and aesthetics for a truly inspiring space.</p>
                                 <!-- <a href="" class="read-more">Read more</a> -->
                             </div>
                         </div>
@@ -218,7 +278,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="section-full mobile-page-padding bg-repeat p-t80 p-b80"
+    <div class="section-full main-testi mobile-page-padding bg-repeat p-t80 p-b80"
         style="background-image:url(./assets/images/background/bg6.jpg)">
         <div class="section-content">
             <div class="container">

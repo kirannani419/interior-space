@@ -12,7 +12,7 @@
 
 
     <!-- INNER PAGES BANNER START -->
-    <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-centeqr" style="background-image: url('https://themewant.com/products/html/innovat/assets/images/banner/21.jpg'); background-position: center !important;
+    <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-centeqr" style="background-image: url('./assets/images/banner/inner-banner.jpg'); background-position: center !important;
                 background-attachment: local;
                 background-size: cover;">
         <div class="overlay-main "></div>
@@ -31,7 +31,7 @@
 
                 <div>
                     <ul class="sx-breadcrumb breadcrumb-style-2">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>About Us</li>
                     </ul>
                 </div>

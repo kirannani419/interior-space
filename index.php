@@ -971,7 +971,7 @@
     <!-- OUR Team END -->
 
     <!-- Testimonial Start -->
-    <div class="section-full mobile-page-padding bg-repeat p-t80 p-b80"
+    <div class="section-full main-testi mobile-page-padding bg-repeat p-t80 p-b80"
         style="background-image:url(./assets/images/background/bg6.jpg)">
         <div class="section-content">
             <div class="container">
