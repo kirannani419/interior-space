@@ -878,7 +878,7 @@
 
 
     <!-- OUR TEAM START -->
-    <div class="section-full p-t80 p-b50 mobile-page-padding">
+    <!-- <div class="section-full p-t80 p-b50 mobile-page-padding">
         <div class="container">
             <div class="section-head">
                 <div class="sx-separator-outer separator-left">
@@ -967,7 +967,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
     <!-- OUR Team END -->
 
     <!-- Testimonial Start -->

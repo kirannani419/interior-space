@@ -55,7 +55,7 @@
 
                         <div class="row">
                             <div class="col-lg-8 col-md-12 col-sm-12">
-                                <form class="contact-form cons-contact-form bg-gray p-a30" method="post" action="#">
+                                <form class="contact-form cons-contact-form bg-gray p-a30" method="post" action="mail.php">
                                     <div class="contact-one">
                                         <!-- TITLE START -->
 
@@ -79,7 +79,7 @@
                                         </div>
 
                                         <div class="form-group">
-                                            <input name="phone" type="phone" class="form-control" required=""
+                                            <input name="phone" type="phone" class="form-control" maxlength="10" pattern="[1-9]{1}[0-9]{9}" required=""
                                                 placeholder="Mobile Number">
                                         </div>
                                         <div class="form-group">

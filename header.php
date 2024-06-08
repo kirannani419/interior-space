@@ -106,7 +106,7 @@
                         <div class="header-nav nav-dark navbar-collapse collapse justify-content-center collapse">
                             <ul class=" nav navbar-nav">
 
-                                <li><a href="/">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
 
                                 <li><a href="about.php">About Us</a></li>
 
