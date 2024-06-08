@@ -60,7 +60,7 @@
                         <div class="about4-section ">
                             <div class="service-single-block m-b30">
                                 <div class="sx-media">
-                                    <img src="https://theme7x.com/inteshape/images/gallery/pic5.jpg" alt="">
+                                    <img src="./assets/images/services/services-office.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -178,32 +178,16 @@
 
                             <div class="marquee marquee--reverse">
                                 <div class="marquee-group">
-                                    <div class="text">Adaptability</div>
-                                    <div class="text">Creative Innovation</div>
-                                    <div class="text">Growth 123</div>
-                                    <div class="text">Leadership</div>
-                                    <div class="text">Integrity</div>
-                                    <div class="text">Adaptability</div>
-                                    <div class="text">Diversity</div>
-                                    <div class="text">Agility</div>
-                                    <div class="text">Resilience</div>
-                                    <div class="text">Creativity</div>
-                                    <div class="text">Visionary</div>
-                                    <div class="text">Accountability</div>
-                                    <div class="text">Customer satisfaction</div>
-                                    <div class="text">Social responsibility</div>
-                                    <div class="text">Innovation</div>
-                                    <div class="text">Empowerment</div>
-                                    <div class="text">Excellence</div>
-                                    <div class="text">Sustainability</div>
-                                    <div class="text">Collaboration</div>
-                                    <div class="text">Customer-centric</div>
-                                    <div class="text">Transformation</div>
-                                    <div class="text">Impact</div>
-                                    <div class="text">Expertise</div>
-                                    <div class="text">Innovation</div>
-                                    <div class="text">Inclusivity</div>
-                                    <div class="text">Diversity</div>
+                                    <div class="text">Reception Areas</div>
+                                    <div class="text">Breakout Areas</div>
+                                    <div class="text">Executive Suites</div>
+                                    <div class="text">Lounge Areas</div>
+                                    <div class="text">Breakout Areas</div>
+                                    <div class="text">Reception Areas</div>
+                                    <div class="text">Executive Suites</div>
+                                    <div class="text">Workstations</div>
+                                    <div class="text">Storage Solutions</div>
+
                                 </div>
                                 <div aria-hidden="true" class="marquee-group">
                                     <div class="text">Reception Areas</div>
@@ -269,15 +253,13 @@
                 <div class="about-area4">
                     <div class="vertical-slider-serv title-area-wrapper">
                         <div class="title-area mb-40"><span class="sub-title style1 ">What We Do</span>
-                        <h2 class="sec-title">Professional Interior Design Service</h2>
+                            <h2 class="sec-title">Professional Interior Design Service</h2>
+                        </div>
                     </div>
-                    <!-- <a href="https://itech36.com/about-us"
-                                                    class="th-btn style5 style-radius">More About Us</a> -->
                 </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 <!-- Scoller Section End -->
@@ -304,7 +286,7 @@
                     <!--Image Column-->
                     <div class="image-column pull-right col-md-7 col-sm-12 col-xs-12">
                         <div class="projects-image-rigt">
-                            <img src="http://t.commonsupport.com/modrox/images/resource/project-2.jpg" alt="">
+                            <img src="./assets/images/services/services-office-down.jpg" alt="">
                         </div>
                     </div>
                 </div>

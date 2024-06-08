@@ -36,7 +36,7 @@
                         data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                         data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;background-color:rgba(0,0,0,0.7);">
+                        style="z-index: 6;background-color:rgb(0 0 0 / 35%);">
                     </div>
 
                     <!-- LAYER 3  Thin text title-->
@@ -125,7 +125,7 @@
                         data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                         data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;background-color:rgba(0,0,0,0.7);">
+                        style="z-index: 6;background-color:rgb(0 0 0 / 35%);">
                     </div>
 
                     <!-- LAYER 3  Thin text title-->
@@ -213,7 +213,7 @@
                         data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                         data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6;background-color:rgba(0,0,0,0.7);">
+                        style="z-index: 6;background-color:rgb(0 0 0 / 35%);">
                     </div>
 
                     <!-- LAYER 3  Thin text title-->

@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="why-choose-us-rgt">
-                        <img src="https://themewant.com/products/html/innovat/assets/images/testimonials/05.jpg"
+                        <img src="./assets/images/about-us/why-choose.jpg"
                             alt="service">
                     </div>
                 </div>

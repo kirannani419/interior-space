@@ -51,7 +51,7 @@
                     <div class="thumbnail-about-one rts-reveal-one"
                         style="opacity: 1; visibility: inherit; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
                         <img class="rts-reveal-image-one"
-                            src="https://themewant.com/products/html/innovat/assets/images/about/01.jpg" alt="about"
+                            src="./assets/images/about-us/about-pg-img.jpg" alt="about"
                             style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
                     </div>
                 </div>

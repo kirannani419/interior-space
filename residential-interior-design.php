@@ -58,7 +58,7 @@
                         <div class="about4-section ">
                             <div class="service-single-block m-b30">
                                 <div class="sx-media">
-                                    <img src="https://theme7x.com/inteshape/images/gallery/pic5.jpg" alt="">
+                                    <img src="./assets/images/services/services-residential.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                         <!--Image Column-->
                         <div class="image-column pull-right col-md-7 col-sm-12 col-xs-12">
                             <div class="projects-image-rigt">
-                                <img src="http://t.commonsupport.com/modrox/images/resource/project-2.jpg" alt="">
+                                <img src="./assets/images/services/services-residential-down.jpg" alt="">
                             </div>
                         </div>
                     </div>

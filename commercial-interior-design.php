@@ -59,7 +59,7 @@
                         <div class="about4-section ">
                             <div class="service-single-block m-b30">
                                 <div class="sx-media">
-                                    <img src="https://theme7x.com/inteshape/images/gallery/pic5.jpg" alt="">
+                                    <img src="./assets/images/services/services-commercial.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -251,8 +251,6 @@
                             <div class="title-area mb-40"><span class="sub-title style1 ">What We Do</span>
                                 <h2 class="sec-title">Professional Interior Design Service</h2>
                             </div>
-                            <!-- <a href="https://itech36.com/about-us"
-                                                    class="th-btn style5 style-radius">More About Us</a> -->
                         </div>
                     </div>
                 </div>
@@ -286,7 +284,7 @@
                         <!--Image Column-->
                         <div class="image-column pull-right col-md-7 col-sm-12 col-xs-12">
                             <div class="projects-image-rigt">
-                                <img src="http://t.commonsupport.com/modrox/images/resource/project-2.jpg" alt="">
+                                <img src="./assets/images/services/services-commercial-down.jpg" alt="">
                             </div>
                         </div>
                     </div>
