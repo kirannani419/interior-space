@@ -70,7 +70,7 @@
                     <div class="d-flex justify-content-end">
                         <ul class="list-unstyled e-p-bx">
                             <li><span>Mail us:</span> Interiorspace2019@gmail.com</li>
-                            <li><span>Call us:</span>+91 98667 76323</li>
+                            <li><span>Call us:</span>+91 98660 60347</li>
                         </ul>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                     <div class="container clearfix">
                         <div class="logo-header">
                             <div class="logo-header-inner nav-header-logo logo-header-one">
-                                <a href="index.html">
+                                <a href="/">
                                     <img src="./assets/images/logo-1.png" alt="" />
                                 </a>
                             </div>
@@ -106,7 +106,7 @@
                         <div class="header-nav nav-dark navbar-collapse collapse justify-content-center collapse">
                             <ul class=" nav navbar-nav">
 
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="/">Home</a></li>
 
                                 <li><a href="about.php">About Us</a></li>
 
@@ -125,49 +125,6 @@
 
                                 <li><a href="gallery.php">Gallery</a></li>
 
-
-                                <!-- <li>
-                                    <a href="javascript:;">Projects</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="javascript:;">Project Grid Type</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="project-grid-3-columns.html">3 Columns</a></li>
-                                                <li><a href="project-grid-3-columns-no-gap.html">3 Columns No Gutter</a>
-                                                </li>
-                                                <li><a href="project-grid-4-columns.html">4 Columns</a></li>
-                                                <li><a href="project-grid-4-columns-no-gap.html">4 Columns No Gutter</a>
-                                                </li>
-                                                <li><a href="project-grid-5-columns.html">5 Columns</a></li>
-                                                <li><a href="project-grid-5-columns-no-gap.html">5 Columns No Gutter</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="javascript:;">Project Masonry Type</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="project-masonry-3-columns.html">3 Columns</a></li>
-                                                <li><a href="project-masonry-3-columns-no-gap.html">3 Columns No
-                                                        Gutter</a></li>
-                                                <li><a href="project-masonry-4-columns.html">4 Columns</a></li>
-                                                <li><a href="project-masonry-4-columns-no-gap.html">4 Columns No
-                                                        Gutter</a></li>
-                                                <li><a href="project-masonry-5-columns.html">5 Columns</a></li>
-                                                <li><a href="project-masonry-5-columns-no-gap.html">5 Columns No
-                                                        Gutter</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="project-carousel.html">Project Carousel</a></li>
-                                        <li><a href="javascript:;">Project Detail</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="project-detail.html">Project Detail-1</a></li>
-                                                <li><a href="project-detail2.html">Project Detail-2</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li> -->
-
-
-
-                                <!-- <li><a href="blogs.php">Blogs</a></li> -->
                                 <li><a href="contact-us.php">Contact us</a></li>
 
                             </ul>
@@ -188,6 +145,8 @@
                                                     <div class="icon-content">
                                                         <h6 class="m-t0">Phone number</h6>
                                                         <p>+91 98667 76323</p>
+                                                        <p>+91 98660 60347</p>
+                                                        <p>+91 83418 25900</p>
                                                     </div>
                                                 </div>
 
@@ -213,7 +172,7 @@
                                                         <li><a href="https://www.facebook.com/share/GGK4obBKFGv3Dkfc/?mibextid=JRoKGi" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
                                                         <li><a href="https://www.instagram.com/interior_space19?igsh=ZTliaGpqMTB6a2J1" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a></li>
                                                         <!-- <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li> -->
-                                                        <li><a href="#" class="youtube"><i class="fa fa-youtube"></i></a></li>
+                                                        <li><a href="" class="youtube"><i class="fa fa-youtube"></i></a></li>
                                                     </ul>
                                                 </div>
 
@@ -224,29 +183,29 @@
 
                                         <div class="col-xl-6 col-lg-6 col-md-12 ">
                                             <div class="contact-nav-field shadow-lg p-a30 bg-white" style="background-image:url(images/background/bg-map.png)">
-                                                <form class="cons-contact-form2 form-transparent" method="POST" action="contact.php">
+                                                <form class="" method="POST" action="contact.php"  enctype="multipart/form-data">
 
                                                     <div class="input input-animate">
                                                         <label for="name">Name</label>
-                                                        <input type="text" name="name" id="name" required>
+                                                        <input type="text" name="name"  required>
                                                         <span class="spin"></span>
                                                     </div>
 
                                                     <div class="input input-animate">
                                                         <label for="email">Email</label>
-                                                        <input type="email" name="email" id="email" required>
+                                                        <input type="email" name="email"  required>
                                                         <span class="spin"></span>
                                                     </div>
 
                                                     <div class="input input-animate">
                                                         <label for="Phone">Phone</label>
-                                                        <input type="phone" name="phone" id="Phone" required>
+                                                        <input type="phone" name="phone" required>
                                                         <span class="spin"></span>
                                                     </div>
 
                                                     <div class="input input-animate">
                                                         <label for="message">Text area</label>
-                                                        <textarea name="message" id="message" required></textarea>
+                                                        <textarea name="message"  required></textarea>
                                                         <span class="spin"></span>
                                                     </div>
 

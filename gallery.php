@@ -144,7 +144,7 @@
                 </div>
 
                 <div class="col-md-4 gallery-item">
-                    <a href="./assets/images/gallerybedroom-8.jpg" title="" class="img-zoom">
+                    <a href="./assets/images/gallery/bedroom-8.jpg" title="" class="img-zoom">
                         <div class="gallery-box">
                             <div class="gallery-img"> <img src="./assets/images/gallery/bedroom-8.jpg"
                                     class="img-fluid mx-auto d-block" alt="work-img"> </div>

@@ -2886,7 +2886,15 @@ ol.list-num-count.list-outline-none>li:before {
 .sx-post-thum {
     background-color: #000;
 }
-
+.sx-thum-bx img{
+    
+}
+.sx-thum-bx img{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 299px !important; 
+}
 .sx-thum-bx img,
 .sx-post-thum img {
     width: 100%;

@@ -55,7 +55,7 @@
 
                         <div class="row">
                             <div class="col-lg-8 col-md-12 col-sm-12">
-                                <form class="contact-form cons-contact-form bg-gray p-a30" method="post" action="mail.php">
+                                <form class="contact-form  bg-gray p-a30" method="POST" action="contact.php" enctype="multipart/form-data">
                                     <div class="contact-one">
                                         <!-- TITLE START -->
 
@@ -70,7 +70,7 @@
 
                                         <!-- TITLE END -->
                                         <div class="form-group">
-                                            <input name="username" type="text" required="" class="form-control"
+                                            <input name="name" type="text" required="" class="form-control"
                                                 placeholder="Name">
                                         </div>
                                         <div class="form-group">
@@ -117,8 +117,9 @@
                                             <div class="icon-xs"><i class="fa fa-phone"></i></div>
                                             <div class="icon-content">
                                                 <h5 class="m-t0">Phone number</h5>
-                                                <p>91 98667 76323</p>
-                                                <p>+91 98660 70347</p>
+                                                <p>+91 98667 76323</p>
+                                                <p>+91 98660 60347</p>
+                                                <p>+91 83418 25900</p>
                                             </div>
                                         </div>
 

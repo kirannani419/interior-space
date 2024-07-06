@@ -18,9 +18,10 @@
                 <!-- SLIDE 1 -->
                 <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="./assets/images/main-slider/residential-slider-2.jpg" data-rotate="0" data-saveperformance="off"
-                    data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5=""
-                    data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    data-thumb="./assets/images/main-slider/residential-slider-2.jpg" data-rotate="0"
+                    data-saveperformance="off" data-title="" data-param1="1" data-param2="" data-param3=""
+                    data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
+                    data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
                     <img src="./assets/images/main-slider/residential-slider-2.jpg" data-bgcolor='#f8f8f8' alt=""
                         data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
@@ -107,9 +108,10 @@
                 <!-- SLIDE 2 -->
                 <li data-index="rs-73" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="./assets/images/main-slider/commercial-slider-1.jpg" data-rotate="0" data-saveperformance="off"
-                    data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5=""
-                    data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    data-thumb="./assets/images/main-slider/commercial-slider-1.jpg" data-rotate="0"
+                    data-saveperformance="off" data-title="" data-param1="1" data-param2="" data-param3=""
+                    data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
+                    data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
                     <img src="./assets/images/main-slider/commercial-slider-1.jpg" data-bgcolor='#f8f8f8' alt=""
                         data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
@@ -195,9 +197,10 @@
                 <!-- SLIDE 3 -->
                 <li data-index="rs-74" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                     data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                    data-thumb="./assets/images/main-slider/office-slider-1.jpg" data-rotate="0" data-saveperformance="off"
-                    data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5=""
-                    data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    data-thumb="./assets/images/main-slider/office-slider-1.jpg" data-rotate="0"
+                    data-saveperformance="off" data-title="" data-param1="1" data-param2="" data-param3=""
+                    data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
+                    data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
                     <img src="./assets/images/main-slider/office-slider-1.jpg" data-bgcolor='#f8f8f8' alt=""
                         data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
@@ -324,7 +327,7 @@
                     <div class="col-lg-7 col-md-12 col-sm-12">
                         <div class="about-home-right">
                             <div class="owl-carousel about-home number-slider owl-btn-vertical-center">
-                                
+
                                 <!-- COLUMNS 1 -->
                                 <div class="item ">
                                     <div class="sx-img-effect zoom-slow">
@@ -338,7 +341,7 @@
                                         <a><img src="./assets/images/about-slider/hm-abt-slider-5.png" alt=""></a>
                                     </div>
                                 </div>
-                                
+
                                 <!-- COLUMNS 3 -->
                                 <div class="item ">
                                     <div class="sx-img-effect zoom-slow">
@@ -631,150 +634,520 @@
 
     <!-- PROJECTS START -->
 
-    <!-- <div class="section-full mobile-page-padding  p-t80 p-b50 bg-white">
+    <div class="section-full mobile-page-padding  p-t80 p-b50 bg-white">
         <div class="section-content">
             <div class="container">
-                 
+
                 <div class="section-head">
                     <div class="sx-separator-outer separator-center">
-                        <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(./assets/images/background/cross-line2.png)">
+                        <div class="sx-separator bg-white bg-moving bg-repeat-x"
+                            style="background-image:url(./assets/images/background/cross-line2.png)">
                             <h3 class="sep-line-one">All Projects</h3>
                         </div>
                     </div>
                 </div>
-                 
+
             </div>
 
             <div class=" filter-carousal-1-outer relative z-index1">
                 <div class="container">
-                     
+
                     <div class="text-center clearfix filter-pos-right shadow m-b30">
                         <ul class="btn-filter-wrap">
                             <li class="btn-filter btn-active" data-filter="*">All</li>
-                            <li class="btn-filter" data-filter=".col-one">Bathroom</li>
+                            <li class="btn-filter" data-filter=".col-one">Hall</li>
                             <li class="btn-filter" data-filter=".col-two">Decoration</li>
                             <li class="btn-filter" data-filter=".col-three">Kitchen</li>
-                            <li class="btn-filter" data-filter=".col-four">Living room</li>
+                            <li class="btn-filter" data-filter=".col-four">Bedroom</li>
                         </ul>
                     </div>
                 </div>
-                 
+
                 <div class="filter-carousal-1  container-fluid p-b30">
-                     
+
                     <div class="section-content ">
-                        <div class="owl-carousel owl-carousel-filter  owl-btn-bottom-center mfp-gallery navigation-with-name">
-                             
+                        <div
+                            class="owl-carousel owl-carousel-filter  owl-btn-bottom-center mfp-gallery navigation-with-name">
+
+
+                            <!-- All Start -->
+
                             <div class="item fadingcol col-one overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic1.jpg" alt="">
+                                        <img src="./assets/images/gallery/hall-2.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic1.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-2.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
-                             
+
                             <div class="item fadingcol col-two overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic2.jpg" alt="">
+                                        <img src="./assets/images/gallery/design-2.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic2.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-2.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
-                             
+
                             <div class="item fadingcol col-three overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic3.jpg" alt="">
+                                        <img src="./assets/images/gallery/kitchen-1.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic3.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-1.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
-                             
+
                             <div class="item fadingcol col-four overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic4.jpg" alt="">
+                                        <img src="./assets/images/gallery/bedroom-1.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic4.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-1.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
-                             
-                            <div class="item fadingcol col-three overflow-hide">
+
+                            <div class="item fadingcol col-four overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic5.jpg" alt="">
+                                        <img src="./assets/images/gallery/bedroom-20.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic5.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-20.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
-                             
-                            <div class="item fadingcol col-two overflow-hide">
-                                <div class="sx-box   image-hover-block">
-                                    <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic6.jpg" alt="">
-                                    </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic6.jpg">
-                                        <i class="fa fa-arrows-alt"></i>
-                                    </a>
-                                </div>
-                            </div>
-                             
+                            <!-- All End -->
+
+
+                            <!-- Hall start-01 -->
                             <div class="item fadingcol col-one overflow-hide">
                                 <div class="sx-box   image-hover-block">
                                     <div class="sx-thum-bx">
-                                        <img src="./assets/images/projects/portrait/pic7.jpg" alt="">
+                                        <img src="./assets/images/gallery/hall-1.jpg" alt="">
                                     </div>
-                                    <div class="sx-info  p-t20 text-white">
-                                        <h4 class="sx-tilte"><a href="#">Chair Furniture</a></h4>
-                                        <p class="m-b0">Muscat, Sultanate of Oman</p>
-                                    </div>
-                                    <a class="mfp-link" href="./assets/images/projects/portrait/pic7.jpg">
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-1.jpg">
                                         <i class="fa fa-arrows-alt"></i>
                                     </a>
                                 </div>
                             </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-3.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-3.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-4.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-4.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-5.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-5.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-6.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-6.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-7.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-7.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-8.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-8.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-9.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-9.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-one overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/hall-10.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/hall-10.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Hall End-01 -->
+
+
+                            <!-- Decoration Start-02 -->
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-3.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-3.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-4.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-4.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-5.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-5.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-6.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-6.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-7.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-7.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-8.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-8.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-two overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/design-1.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/design-1.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Decoration End-02 -->
+
+
+                            <!-- Kitchen Start-03 -->
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-2.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-2.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-3.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-3.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-4.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-4.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-5.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-5.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-6.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-6.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-7.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-7.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-three overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/kitchen-8.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/kitchen-8.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- Kitchen End-03 -->
+
+
+                            <!-- Bedroom Start-04 -->
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-2.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-2.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-3.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-3.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-4.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-4.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-5.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-5.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-6.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-6.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-7.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-7.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-10.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-10.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-13.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-13.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                            <div class="item fadingcol col-four overflow-hide">
+                                <div class="sx-box   image-hover-block">
+                                    <div class="sx-thum-bx">
+                                        <img src="./assets/images/gallery/bedroom-14.jpg" alt="">
+                                    </div>
+
+                                    <a class="mfp-link" href="./assets/images/gallery/bedroom-14.jpg">
+                                        <i class="fa fa-arrows-alt"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Bedroom End-04 -->
+
+
+
+
+
+
                         </div>
                     </div>
                 </div>
             </div>
 
         </div>
-    </div> -->
+    </div>
 
     <!-- PROJECTS  END -->
 
@@ -991,8 +1364,8 @@
                     <div class="item">
                         <div class="testimonial-1 hover-animation-1 bg-gray">
                             <div class="testimonial-detail clearfix">
-                                <div class="testimonial-pic  scale-in-center"><img
-                                        src="./assets/images/user.png" width="100" height="100" alt="">
+                                <div class="testimonial-pic  scale-in-center"><img src="./assets/images/user.png"
+                                        width="100" height="100" alt="">
                                 </div>
                                 <!-- <span class="testimonial-position">Architect</span> -->
                                 <h4 class="testimonial-name">Rajesh and Anjali</h4>
@@ -1008,8 +1381,8 @@
                     <div class="item">
                         <div class="testimonial-1  hover-animation-1 bg-gray">
                             <div class="testimonial-detail clearfix">
-                                <div class="testimonial-pic scale-in-center"><img
-                                        src="./assets/images/user.png" width="100" height="100" alt="">
+                                <div class="testimonial-pic scale-in-center"><img src="./assets/images/user.png"
+                                        width="100" height="100" alt="">
                                 </div>
                                 <!-- <span class="testimonial-position">Architect</span> -->
                                 <h4 class="testimonial-name">Amit, Restaurant Owner</h4>
@@ -1025,8 +1398,8 @@
                     <div class="item">
                         <div class="testimonial-1 hover-animation-1 bg-gray">
                             <div class="testimonial-detail clearfix">
-                                <div class="testimonial-pic  scale-in-center"><img
-                                        src="./assets/images/user.png" width="100" height="100" alt="">
+                                <div class="testimonial-pic  scale-in-center"><img src="./assets/images/user.png"
+                                        width="100" height="100" alt="">
                                 </div>
                                 <h4 class="testimonial-name">Sanjay, CEO</h4>
                                 <span class="fa fa-quote-right"></span>
@@ -1041,8 +1414,8 @@
                     <div class="item">
                         <div class="testimonial-1 hover-animation-1 bg-gray">
                             <div class="testimonial-detail clearfix">
-                                <div class="testimonial-pic scale-in-center"><img
-                                        src="./assets/images/user.png" width="100" height="100" alt="">
+                                <div class="testimonial-pic scale-in-center"><img src="./assets/images/user.png"
+                                        width="100" height="100" alt="">
                                 </div>
                                 <!-- <span class="testimonial-position">Architect</span> -->
                                 <h4 class="testimonial-name">Priya and Rahul</h4>
@@ -1058,8 +1431,8 @@
                     <div class="item">
                         <div class="testimonial-1 hover-animation-1 bg-gray">
                             <div class="testimonial-detail clearfix">
-                                <div class="testimonial-pic scale-in-center"><img
-                                        src="./assets/images/user.png" width="100" height="100" alt="">
+                                <div class="testimonial-pic scale-in-center"><img src="./assets/images/user.png"
+                                        width="100" height="100" alt="">
                                 </div>
                                 <!-- <span class="testimonial-position">Architect</span> -->
                                 <h4 class="testimonial-name">Neha and Vivek</h4>

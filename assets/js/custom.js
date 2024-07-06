@@ -897,64 +897,64 @@ All JavaScript fuctions Start
     ===========================*/
 
     //________ Contact form function by = custom.js________//		
-    jQuery(document).on('submit', 'form.cons-contact-form', function(e) {
-        e.preventDefault();
-        var form = jQuery(this);
-        /* sending message */
-        jQuery.ajax({
-            url: 'https://theme7x.com/inteshape/phpmailer/mail.php',
-            data: form.serialize() + "&action=contactform",
-            type: 'POST',
-            dataType: 'JSON',
-            beforeSend: function() {
-                jQuery('.loading-area').show();
-            },
+    // jQuery(document).on('submit', 'form.cons-contact-form', function(e) {
+    //     e.preventDefault();
+    //     var form = jQuery(this);
+        
+    //     jQuery.ajax({
+    //         url: 'https://theme7x.com/inteshape/phpmailer/mail.php',
+    //         data: form.serialize() + "&action=contactform",
+    //         type: 'POST',
+    //         dataType: 'JSON',
+    //         beforeSend: function() {
+    //             jQuery('.loading-area').show();
+    //         },
 
-            success: function(data) {
-                jQuery('.loading-area').hide();
-                if (data['success']) {
-                    jQuery("<div class='alert alert-success'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
-                } else {
-                    jQuery("<div class='alert alert-danger'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
-                }
-            }
-        });
-        jQuery('.cons-contact-form').trigger("reset");
-        return false;
-    });
+    //         success: function(data) {
+    //             jQuery('.loading-area').hide();
+    //             if (data['success']) {
+    //                 jQuery("<div class='alert alert-success'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
+    //             } else {
+    //                 jQuery("<div class='alert alert-danger'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
+    //             }
+    //         }
+    //     });
+    //     jQuery('.cons-contact-form').trigger("reset");
+    //     return false;
+    // });
 
 
 
 
     //________ Contact form home page function by = custom.js________//	
 
-    jQuery(document).on('submit', 'form.cons-contact-form2', function(e) {
-        e.preventDefault();
-        var form = jQuery(this);
-        /* sending message */
+    // jQuery(document).on('submit', 'form.cons-contact-form2', function(e) {
+    //     e.preventDefault();
+    //     var form = jQuery(this);
+        
 
-        jQuery.ajax({
-            url: 'https://theme7x.com/inteshape/phpmailer/mail.php',
-            data: form.serialize() + "&action=contactform",
-            type: 'POST',
-            dataType: 'JSON',
-            beforeSend: function() {
-                jQuery('.loading-area').show();
+    //     jQuery.ajax({
+    //         url: 'https://theme7x.com/inteshape/phpmailer/mail.php',
+    //         data: form.serialize() + "&action=contactform",
+    //         type: 'POST',
+    //         dataType: 'JSON',
+    //         beforeSend: function() {
+    //             jQuery('.loading-area').show();
 
-            },
+    //         },
 
-            success: function(data) {
-                jQuery('.loading-area').hide();
-                if (data['success']) {
-                    jQuery("<div class='alert alert-success'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form2');
-                } else {
-                    jQuery("<div class='alert alert-danger'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form2');
-                }
-            }
-        });
-        jQuery('.cons-contact-form2').trigger("reset");
-        return false;
-    });
+    //         success: function(data) {
+    //             jQuery('.loading-area').hide();
+    //             if (data['success']) {
+    //                 jQuery("<div class='alert alert-success'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form2');
+    //             } else {
+    //                 jQuery("<div class='alert alert-danger'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form2');
+    //             }
+    //         }
+    //     });
+    //     jQuery('.cons-contact-form2').trigger("reset");
+    //     return false;
+    // });
 
 
     /*===========================

@@ -12,7 +12,7 @@
                             <div class="widget widget_about">
                                 <!--<h4 class="widget-title">About Company</h4>-->
                                 <div class="logo-footer clearfix p-b15">
-                                    <a href="index.html"><img src="./assets/images/logo-1.png" alt=""></a>
+                                    <a href="/"><img src="./assets/images/logo-1.png" alt=""></a>
                                 </div>
                                 <p> is a html template for interior and architecture purpose. Today we can tell
                                     you, thanks to your passion.</p>
@@ -61,7 +61,8 @@
                                         Telangana.506001.</li>
                                     <li>Interiorspace2019@gmail.com</li>
                                     <li>+91 98667 76323</li>
-                                    <li>+91 98660 70347</li>
+                                    <li>+91 98660 60347</li>
+                                    <li>+91 83418 25900</li>
                                 </ul>
 
                             </div>

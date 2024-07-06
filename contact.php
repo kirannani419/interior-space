@@ -1,12 +1,12 @@
 
 <?php
-$username = $_POST['username'];
+$username = $_POST['name'];
 $email = $_POST['email'];
 $phone = $_POST['phone'];
 // $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$to = "balaboinakirankumar97@gmail.com";
+$to = "interiorspace2019@gmail.com";
 			$from= $_POST['email'];
 			$subject ="User Contact Details";
 			$body = "<table>
